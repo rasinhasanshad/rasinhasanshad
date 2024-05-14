@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rasinhasanshad
-- 👀 I’m interested in Networking
+- 👀 I’m interested in Research
 - 🌱 I’m currently learning Computer Science & Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
